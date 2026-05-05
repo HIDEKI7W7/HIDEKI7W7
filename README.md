@@ -99,10 +99,11 @@ Me especializo en erradicar ineficiencias corporativas mediante la **automatizac
 ## 📊 Telemetría de Contribuciones
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HIDEKI7W7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="190"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HIDEKI7W7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Langs" height="190"/>
-</div>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HIDEKI7W7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HIDEKI7W7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+</div>
 ---
 
 ## 🤝 Contacto & Auditoría B2B
