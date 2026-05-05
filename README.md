@@ -11,7 +11,19 @@
 
 ## :dna: Sobre Mi
 
-Soy **Hide**, Ingeniero de Software Full-Stack enfocado en el desarrollo core de alto rendimiento. Mi filosofia tecnica descarta el uso de CMS tradicionales en favor de soluciones nativas and robustas construidas desde cero. Mi valor comercial radica en erradicar ineficiencias corporativas criticas y detener la fuga de capital mediante la automatizacion de procesos B2B, implementando arquitecturas de software altamente escalables bajo estrictos estandares de ciberseguridad.
+Soy **Hide**, Ingeniero de Software Full-Stack enfocado en el desarrollo core de alto rendimiento. Mi filosofia tecnica descarta el uso de CMS tradicionales en favor de soluciones nativas y robustas construidas desde cero. Mi valor comercial radica en erradicar ineficiencias corporativas criticas y detener la fuga de capital mediante la automatizacion de procesos B2B, implementando arquitecturas de software altamente escalables bajo estrictos estandares de ciberseguridad.
+
+### 💻 Desarrollador de Software Freelance (Web, Apps & Bots)
+
+**🤖 Desarrollo a Medida y Automatización:**
+- Creación de bots para automatización de procesos, web scraping y generación de leads.
+- Desarrollo de aplicaciones web y multiplataforma.
+- Integración de sistemas y APIs.
+
+**🔐 Ciberseguridad Ofensiva y Defensiva:**
+- Pentesting de aplicaciones web y redes.
+- Pentesting de dispositivos e infraestructura de hardware.
+- Identificación proactiva y mitigación de vulnerabilidades.
 
 ## :building_construction: Ecosistemas en Desarrollo
 
@@ -29,13 +41,31 @@ Soy **Hide**, Ingeniero de Software Full-Stack enfocado en el desarrollo core de
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Lenguajes Base
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=security&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT_Integrations-0078D4?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![Architecture](https://img.shields.io/badge/System_Architecture-FF4B4B?style=for-the-badge&logo=amazonaws&logoColor=white)
+### Frameworks & Entornos
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
+
+### Sistemas, Seguridad & Arquitectura
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=security&logoColor=white)](#)
+[![IoT Integrations](https://img.shields.io/badge/IoT_Integrations-0078D4?style=for-the-badge&logo=stmicroelectronics&logoColor=white)](#)
 
 </div>
 
