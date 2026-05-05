@@ -1,92 +1,115 @@
 <div align="center">
 
-# :milky_way: Sky Tech | by Hide
-**Arquitectura de Software Escalar | Automatizacion B2B | Ciberseguridad**
+# 🌌 SOY HIDE
+### Arquitectura de Software Escalar | Automatización B2B | Ciberseguridad
+*Transformando el caos operativo en ecosistemas digitales autónomos.*
 
-*Transformando el caos operativo en ecosistemas digitales autonomos.*
+</div>
 
 ---
 
-</div>
+## 👤 Perfil Profesional
 
-## :dna: Sobre Mi
+Soy **Hide**, Ingeniero de Software Full-Stack enfocado en el desarrollo *core* de alto rendimiento. Mi filosofía técnica descarta el uso de CMS tradicionales en favor de soluciones nativas, seguras y robustas construidas desde cero. 
 
-Soy **Hide**, Ingeniero de Software Full-Stack enfocado en el desarrollo core de alto rendimiento. Mi filosofia tecnica descarta el uso de CMS tradicionales en favor de soluciones nativas y robustas construidas desde cero. Mi valor comercial radica en erradicar ineficiencias corporativas criticas y detener la fuga de capital mediante la automatizacion de procesos B2B, implementando arquitecturas de software altamente escalables bajo estrictos estandares de ciberseguridad.
+Me especializo en erradicar ineficiencias corporativas y detener fugas de capital mediante la **automatización de procesos B2B** y la implementación de arquitecturas de software altamente escalables bajo estrictos estándares de seguridad.
 
-### 💻 Desarrollador de Software Freelance (Web, Apps & Bots)
+---
 
-**🤖 Desarrollo a Medida y Automatización:**
-- Creación de bots para automatización de procesos, web scraping y generación de leads.
-- Desarrollo de aplicaciones web y multiplataforma.
-- Integración de sistemas y APIs.
+## 🛠 Áreas de Especialidad
 
-**🔐 Ciberseguridad Ofensiva y Defensiva:**
-- Pentesting de aplicaciones web y redes.
-- Pentesting de dispositivos e infraestructura de hardware.
-- Identificación proactiva y mitigación de vulnerabilidades.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Desarrollo a Medida & Bots</h3>
+      <ul>
+        <li>Desarrollo de aplicaciones web y multiplataforma.</li>
+        <li>Creación de bots para automatización de procesos (RPA).</li>
+        <li>Web scraping avanzado y generación de leads.</li>
+        <li>Integración de sistemas arquitectónicos y APIs.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔐 Ciberseguridad & Infraestructura</h3>
+      <ul>
+        <li>Pentesting de aplicaciones web y redes.</li>
+        <li>Pentesting de dispositivos y hardware.</li>
+        <li>Identificación proactiva de vulnerabilidades.</li>
+        <li>Mitigación de riesgos y bastionado de sistemas.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-## :building_construction: Ecosistemas en Desarrollo
+---
 
-| :office: Inmovil | :gear: SCIGE |
-| :--- | :--- |
-| **Ecosistema PropTech Integral** | **ERP Vertical B2B** |
-| Plataforma centralizada para el mercado inmobiliario que articula portales independientes de alta disponibilidad para agentes, clientes y administradores. | Sistema de gestion empresarial integrada disenado para sincronizar, unificar y optimizar recursos criticos operativos en tiempo real. |
+## 🏗️ Ecosistemas & Proyectos Core
 
-| :rocket: Antigravity | :satellite: Sky Tech IoT |
-| :--- | :--- |
-| **Motor de Inteligencia Comercial** | **Hardware Control System** |
-| Sistema autonomo de lead generation y perfilamiento de prospectos impulsado por analisis de datos y algoritmos de extraccion automatizada. | Arquitectura de telemetria y control para el monitoreo en tiempo real de hardware industrial y redes de sensores distribuidos. |
+> **🏢 Inmovil - Ecosistema PropTech Integral**  
+> Plataforma centralizada para el mercado inmobiliario que articula portales independientes de alta disponibilidad para agentes, clientes y administradores.
 
-## :computer: Stack Tecnologico & Core
+> **⚙️ SCIGE - ERP Vertical B2B**  
+> Sistema de gestión empresarial integrada diseñado para sincronizar, unificar y optimizar recursos críticos operativos en tiempo real.
+
+> **🚀 Antigravity - Motor de Inteligencia Comercial**  
+> Sistema autónomo de *lead generation* y perfilamiento de prospectos impulsado por análisis de datos y algoritmos de extracción automatizada.
+
+> **📡 Sky Tech IoT - Hardware Control System**  
+> Arquitectura de telemetría y control para el monitoreo en tiempo real de hardware industrial y redes de sensores distribuidos.
+
+---
+
+## 💻 Stack Tecnológico
 
 <div align="center">
 
-### Lenguajes Base
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
-[![Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-
-### Frameworks & Entornos
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 
-### Sistemas, Seguridad & Arquitectura
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+
+**Sistemas, DevOps & Seguridad**<br>
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![GNU Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=security&logoColor=white)](#)
-[![IoT Integrations](https://img.shields.io/badge/IoT_Integrations-0078D4?style=for-the-badge&logo=stmicroelectronics&logoColor=white)](#)
 
-</div>
 
-## :bar_chart: Telemetria de Contribuciones
 
-<div align="center">
+---
 
-[![Sky Tech GitHub Stats](https://github-readme-stats.vercel.app/api?username=HIDEKI7W7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/HIDEKI7W7)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HIDEKI7W7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/HIDEKI7W7)
-
-</div>
-
-## :handshake: Contacto & Auditoria B2B
-
-Detectas cuellos de botella operativos o fugas de capital en tu infraestructura?
-Agendemos una auditoria tecnica profunda y estructuremos una solucion nativa a tu medida.
+## 📊 Telemetría de Contribuciones
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HIDEKI7W7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HIDEKI7W7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Langs" height="190"/>
+</div>
 
-[![Email](https://img.shields.io/badge/Email-Agendar_Auditoria-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryansalirrosas37@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar_Comercialmente-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+---
 
+## 🤝 Contacto & Auditoría B2B
+
+¿Detectas cuellos de botella operativos o fugas de capital en tu infraestructura?  
+**Agendemos una auditoría técnica profunda y estructuremos una solución nativa a tu medida.**
+
+<div align="center">
+  <br>
+  <a href="mailto:bryansalirrosas37@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Agendar_Auditoría-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar_Comercialmente-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
